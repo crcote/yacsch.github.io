@@ -62,7 +62,7 @@ h2 {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: right;
 }
 
 /* Contacto */
@@ -126,7 +126,7 @@ textarea::placeholder {
     font-size: 14px;
   }
   #Contacto form label {
-
+    font-weight: 400;
   }
 }
 @media (min-width: 1200px) {
