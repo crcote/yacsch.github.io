@@ -10,8 +10,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: rgb(56, 47, 97);
-
-}
+ }
 .colorfondo {
   background-color: rgb(56, 47, 97);
 }
@@ -54,9 +53,11 @@ h2 {
 .hero-section .container-fluid {
   color: whitesmoke;
 }
+
 .texto-hero {
   display: none;
 }
+
 /* Portafolio */
 .portafolio .image-top {
   height: 250px;
@@ -70,6 +71,7 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: whitesmoke;
 }
 form {
   padding: 50px 55px;
